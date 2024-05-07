@@ -1,17 +1,35 @@
 /**
- * 1) Hello world program
+ * Primitive (atomic) types
  * 
- * 2) Variables and comments
+ * Number
+ * String
+ * Boolean
  * 
- * 3) console object
- * 
- * 4) Basic math operations
- * 
- * 5) Errors in JavaScript program: Syntax errors
- * 
- * 
- * https://github.com/softerboy/learnjs
- * 
+ * Null
+ * Undefined
+ * Symbol
  */
 
-console.log('Hello world')
+let age = 32
+console.log(age)
+console.log(typeof age)
+
+let firstname = 'Faxriddin'
+let lastname = 'Umarov'
+const fullname = firstname + ' ' + lastname
+
+console.log(typeof fullname)
+
+// console.log('Ismi ' + firstname)
+// console.log('Familiyasi ' + lastname)
+// console.log(fullname)
+
+const amIStudent = true
+console.log(typeof amIStudent)
+
+const statement = 2 * (4 + 5) + 6 - 9
+console.log(statement)
+
+console.log(Math.sqrt(4))
+
+// console.log('Hello world!')

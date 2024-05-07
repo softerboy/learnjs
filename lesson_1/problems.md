@@ -1,15 +1,15 @@
-1) Kvadratning tomoni a berilgan - Uning perimetri aniqlansin. P = 4 * a
+1) Kvadratning tomoni a berilgan. Uning perimetri P aniqlansin. P = 4 * a
 
-2) Kvadratning tomoni a berilgan. Uning yuzasi aniqlansin.
+2) Kvadratning tomoni a berilgan. Uning yuzasi S aniqlansin. S = a * a
 
-3) To'g'ri to'rtburchakning tomonlari a va b berilgan. Uning yuzasi S = a * b; va perimetri P = 2 * (a + b)
+3) To'g'ri to'rtburchakning tomonlari a va b berilgan. Uning yuzasi S = a * b va perimetri P = 2 * (a + b)
  aniqlansin.
 
 4) Aylananing diametri d berilgan. Uning uzunligi aniqlansin. L = pi * d. pi = 3.14
 
 5) Kubning yon tomoni a berilgan. Uning hajmini V = a^3 va to'la sirti S = 6 * a^2 aniqlansin.
 
-6) Paralelepepidning tomonlari a, b, c berilgan. Uning hajmini V = a*b*c va to'la sirti S = 2 * (a * b+ b * c + a * c) aniqlansin.
+6) Paralelepepidning tomonlari a, b, c berilgan. Uning hajmini V = a * b * c va to'la sirti S = 2 * (a * b+ b * c + a * c) aniqlansin.
 
 7) Doiraning radiusi R berilgan. Uning uzunligi L va yuzasi S aniqlansin. L = 2 * pi * R, S = pi * r^2
 

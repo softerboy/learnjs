@@ -13,7 +13,7 @@ function readString() {
 }
 
 function readNumber() {
-  return readString().then(data => parseInt(data))
+  return readString().then(data => Number(data))
 }
 
 module.exports = { 
